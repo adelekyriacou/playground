@@ -24,7 +24,7 @@ describe Calculator do
       expect(calc.product(2, 2)).to eq(4)
     end
   end
-§§
+
   context '#quotient' do
     it 'should return 4 given 20 and 5' do
       expect(calc.quotient(20, 5)).to eq(4)

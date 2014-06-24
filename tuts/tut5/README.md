@@ -2,7 +2,7 @@
 
 
 * Create a text entry form element with a button so that when the button is   
-pressed the text between the '<h1>' tags is replaced with the text entered  
+pressed the text between the `<h1>` tags is replaced with the text entered  
 into the text entry field.
 
 

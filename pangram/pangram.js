@@ -19,3 +19,5 @@ function stringDoesntContainCharacter(str, c) { // two parameters, string & char
  
 //str.indexOf(c) = tells where the character first appears in the string, index form.
 //                 returns -1 if it doesn't appear in string at all.
+
+module.exports = isPangram;

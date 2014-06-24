@@ -39,3 +39,10 @@ function giveSweets(person, anotherPerson, item, quantity) {
   takeSweetsFromBag(person, item, quantity);
   putSweetsInBag(anotherPerson, item, quantity);
 }
+
+module.exports = {
+  "buySweets": buySweets,
+  "takePocketMoney": takePocketMoney,
+  "eatSweets": eatSweets,
+  "giveSweets": giveSweets
+};

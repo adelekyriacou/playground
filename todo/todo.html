@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Georgia's Website</title>
+  <style>
+    body {
+      background: pink;
+      font-family: arial;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <ul id="todos"></ul>
+ 
+  <form id="new-form">
+    <input id="new" />
+    <input type="submit" />
+  </form>
+ 
+  <script>
+    var newtodo = document.getElementById("new");
+    var todos = document.getElementById("todos");
+    var newtodoform = document.getElementById("new-form");
+ 
+    newtodoform.onsubmit = function() {
+      var newtodoel = document.createElement("li");
+      newtodoel.innerHTML = newtodo.value;
+      newtodo.value = "";
+      todos.appendChild(newtodoel);
+      return false;
+    };
+  </script>
+</body>
+</html>

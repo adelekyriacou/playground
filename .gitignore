@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+node_modules
+tuts/tut3/.gitignore
+>>>>>>> 03f6bc8cf407e4428ebf4b35b6997799ce05b5db

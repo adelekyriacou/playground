@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Tutorial Questions (Tutorial 3)
 
 For this tutorial DO NOT  use any HTML editing software such eg Dreamweaver, Microsoft Frontpage. Use an ordinary text editor such as Notepad++.
@@ -25,11 +24,3 @@ Create a HTML page with an externally linked javascript file which includes the 
 ```
 * Repeat part(e), so that the array is sorted in descending order.
 
-=======
-Playground
-==========
-
-A collection of learning tasks designed to hone in on particular subjects to be familarised with.
-
-Here there will be emphasis on js, TDD and front-end shenanigans. 
->>>>>>> 03f6bc8cf407e4428ebf4b35b6997799ce05b5db

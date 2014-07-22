@@ -13,3 +13,5 @@ text which entered into the text entry fields.
 pressed,  a function is invoked which generates a list. The list items 
 should be composed of the text which is entered into the text entry 
 field.
+
+[View Tutorial 3 in browser](itsuite.it.brighton.ac.uk/ack16/tutorial3.html)

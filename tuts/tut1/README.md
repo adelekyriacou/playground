@@ -22,3 +22,5 @@ Create a HTML page with an externally linked javascript file which includes the 
   var agesOfPeople = [56, 23, 45, 21, 2, 67, 34]; 
 ```
 * Repeat part(e), so that the array is sorted in descending order.
+
+[View Tutorial 1 in browser](itsuite.it.brighton.ac.uk/ack16/tutorial1.html)

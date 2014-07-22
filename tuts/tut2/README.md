@@ -6,4 +6,4 @@
 
 * Create a web form with a text entry element (to enable the user to enter a phone number) and a button. When the user enters a phone number and presses the button a Javascript function called `checkPhoneNumber()` should be invoked to check that only numbers are entered. The phone maximum length of the phone number should be 14. If this is not the case, a message should be displayed directly under the text entry element to alert the user to the error.
 
-[View Tutorial 2 in browser](itsuite.it.brighton.ac.uk/ack16/tutorial2.html)
+[View Tutorial 2 in browser](https://itsuite.it.brighton.ac.uk/ack16/tutorial2.html)

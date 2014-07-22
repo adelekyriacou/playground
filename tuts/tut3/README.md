@@ -1,5 +1,5 @@
 
-#Tutorial Questions (Tutorial 3)
+#Tutorial 3
 
 For this tutorial DO NOT  use any HTML editing software such eg Dreamweaver, Microsoft Frontpage. Use an ordinary text editor such as Notepad++.
 

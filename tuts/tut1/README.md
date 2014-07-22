@@ -23,4 +23,4 @@ Create a HTML page with an externally linked javascript file which includes the 
 ```
 * Repeat part(e), so that the array is sorted in descending order.
 
-[View Tutorial 1 in browser](itsuite.it.brighton.ac.uk/ack16/tutorial1.html)
+[View Tutorial 1 in browser](https://itsuite.it.brighton.ac.uk/ack16/tutorial1.html)

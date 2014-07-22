@@ -6,38 +6,9 @@
   </head>
 
   <body>
-    <h1>Event Handling</h1>
+    <h1 id="h1Tag">Creating Markup Dynamically</h1>
 
     <form name="form1" method="get">
-      <input 
-        type="radio" 
-        name="CourseOption" 
-        value="SE">Software Engineering<br>
-
-      <input 
-        type="radio" 
-        name="CourseOption" 
-        value="CS">Computer Science<br>
-
-      <input 
-        type="radio" 
-        name="CourseOption" 
-        value="DM"> Digital Media<br>
-
-      <input 
-        type="button" 
-        value="Select Course"
-        onclick="readData();" 
-        /><br><br>
-
-      <input 
-        id="button"
-        type="button"
-        value="Remove Friends"
-        /><br><br>
-    </form>
-
-    <form name="form2" method="get">
       <input 
         type="text" 
         name="textEntry1" 
@@ -45,29 +16,10 @@
           
       <input 
         type="button" 
-        value="Add a name to my array"       
-        onclick="addFriends(textEntry1.value);"
+        value="Change text"       
+        onclick="changeText(textEntry1.value);"
         /><br><br>
 
-      <input 
-        type="button" 
-        value="Sort array"       
-        onclick="sorted();"
-        /><br><br>
-
-      <input 
-        type="button" 
-        value="Sort array in ascending order"       
-        onclick="sortAge();"
-        />
-
-      <input 
-        type="button" 
-        value="Sort array in descending order"       
-        onclick="sortAgeDesc();"
-        />
-    </form>
-    
-    <script src="jstuts3.js"></script>
+    <script src="tut3.js"></script>
   </body> 
 </html>

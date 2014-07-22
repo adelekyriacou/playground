@@ -1,4 +1,4 @@
-#Tutorial 4
+#Tutorial 2
 
 * Create a web page with four `<p>` elements and a button. On clicking the button a javascript function `getElements()` should be invoked, which loops through all the `<p>` elements on the page and displays each element object in a pop up window.
 

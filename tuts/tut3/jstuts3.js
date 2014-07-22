@@ -1,7 +1,7 @@
 function readData() {
   var elements = document.form1.CourseOption.length;
 
-  for (var i = 0; i<elements; i++) {
+  for (var i = 0; i < elements; i++) {
     if (document.form1.CourseOption[i].checked == true) {
       var selected = document.form1.CourseOption[i].value;
       alert('You have selected ' + selected);
